@@ -70,7 +70,7 @@ const Home = () => {
                 styles={"mt-7"}
               />
             </div>
-            <div>
+            {/* <div>
               <img src="" alt="" />
               <h6></h6>
               <p></p>
@@ -84,7 +84,7 @@ const Home = () => {
               <img src="" alt="" />
               <h6></h6>
               <p></p>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
